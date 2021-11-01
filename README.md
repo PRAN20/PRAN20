@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-# Hi Fam, I'm the face that runs this place
+# I'm the Face that Runs This Place
 ## 🙋‍♂️ About Me
 -  👋 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranit Puri
 - 👀 I’m interested in Machine Learning
