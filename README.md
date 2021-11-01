@@ -4,8 +4,7 @@
 -  👋 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranit Puri
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python/ AI/ ML
-- 💞️ I’m looking to collaborate with face recognition [Traditional/non deep learning]
-- 📫 How to reach me through WhatsApp 8851450837
+- 📫 How to reach me through Gmail pranitpuri25@gmail.com
 
 <!---
 PRAN20/PRAN20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
