@@ -1,4 +1,4 @@
-# Hi Fam, Welcome to Area where I'm the face that runs the place
+# Hi Fam, I'm the face that runs this place
 -  👋 Hi, I’m @PRAN20
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python/AI|ML
